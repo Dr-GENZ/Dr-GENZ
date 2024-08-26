@@ -2,7 +2,7 @@
 Instructional Designer | Researcher | Data Analyst
 
 <h2>Proficiencies</h2>
-Instructional System Design | Data Analysis | Research | SPSS | Ms Excel
+Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Office Suite
 
 <h2>Instructional Videos</h2>
 <a href="https://youtu.be/4R04XgQscr0?si=L-r-0WZN6IC2hOl9">Identifying Resarch Gaps</a>
