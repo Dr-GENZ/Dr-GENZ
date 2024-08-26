@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, I'm Amarachi Genevive Ossai-Chidi
+Instructional Designer | Researcher | Data Analyst
 
+<h2>Proficiencies</h2>
+Instructional System Design | Data Analysis | Research | SPSS | Ms Excel
+
+<h2>Instructional Videos</h2>
+
+<h2>Projects</h2>
 <!--
 **Dr-GENZ/Dr-GENZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
