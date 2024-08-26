@@ -12,6 +12,8 @@ Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Of
 <ul><a href="https://youtu.be/66n_aTPczDg?si=gFmdUv0L1SyChkrH">Statement of the Problem</a></ul>
 <ul><a href="https://youtu.be/PHGjvJy9S24?si=ky1qkmgl02z_odD1">Characteristics of a Descriptive Research Design</a></ul>
 <ul><a href="https://youtu.be/GFu9FheCNOs?si=DWjebIaEkyHJ43C2">Benefits of a Descriptive Research Design</a></ul>
+<ul><a href="https://youtu.be/a17wo5tlnwY?si=jaeTCJo6JrFvdGkz">Qualitative versus Quantitative  Research Design</a></ul>
+
 
 
 
