@@ -10,6 +10,9 @@ Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Of
 <ul><a href="https://youtu.be/4R04XgQscr0?si=L-r-0WZN6IC2hOl9">Identifying Resarch Gaps</a></ul>
 <ul><a href="https://youtu.be/o8W4BTJUAv0?si=SftH6Ljc6Imqlwmu">Research Process</a></ul>
 <ul><a href="https://youtu.be/66n_aTPczDg?si=gFmdUv0L1SyChkrH">Statement of the Problem</a></ul>
+<ul><a href="https://youtu.be/PHGjvJy9S24?si=ky1qkmgl02z_odD1">Characteristics of a Descriptive Research Design</a></ul>
+<ul><a href="https://youtu.be/GFu9FheCNOs?si=DWjebIaEkyHJ43C2">Benefits of a Descriptive Research Design</a></ul>
+
 
 
 
