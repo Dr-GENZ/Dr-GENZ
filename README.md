@@ -19,7 +19,7 @@ Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Of
 
 
 
-
+<h2>Publications</h2>
 
 <h2>Projects</h2>
 <!--
