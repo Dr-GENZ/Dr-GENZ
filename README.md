@@ -5,6 +5,7 @@ Instructional Designer | Researcher | Data Analyst
 Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Office Suite
 
 <h2>Instructional Slides</h2>
+<ul><a href="https://github.com/Dr-GENZ/Instructional-Slides">Instructional Slides</a></ul>
 
 <h2>Instructional Videos</h2>
 <ul><a href="https://youtu.be/9q_DflWMmg4?si=XD6Su1ppQO4BR-Iy">History of Research</a></ul>
