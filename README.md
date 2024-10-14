@@ -8,6 +8,7 @@ Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Of
 <ul><a href="https://github.com/Dr-GENZ/Instructional-Slides/blob/main/ADDIE%20PART%201.pptx">ADDIE Instructional Slides</a></ul>
 
 <h2>Instructional Videos</h2>
+<ul><a href="https://youtu.be/fXKHxfEpwaI?si=_ufMxtS1wmC3oy_Y>Analysis Phase of the ADDIE MODEL</a></ul>
 <ul><a href="https://youtu.be/9q_DflWMmg4?si=XD6Su1ppQO4BR-Iy">History of Research</a></ul>
 <ul><a href="https://youtu.be/ZKcPl5vLnXo?si=Xs7b7nNInicLxsPx">Research Gaps</a></ul>
 <ul><a href="https://youtu.be/4R04XgQscr0?si=L-r-0WZN6IC2hOl9">Identifying Resarch Gaps</a></ul>
