@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Amarachi Genevive Ossai-Chidi
-Instructional Designer |Curriculum Designer | Researcher | Data Analyst |Copy writer
+Instructional Designer |Curriculum Designer | Researcher | Data Analyst | Copy writer
 
 <h2>Proficiencies</h2>
 Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Office Suite
