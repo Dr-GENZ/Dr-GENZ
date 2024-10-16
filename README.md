@@ -5,7 +5,7 @@ Instructional Designer | Researcher | Data Analyst
 Instructional System Design | Data Analysis | Research | SPSS | MS Excel | Ms Office Suite
 
 <h2>Instructional Slides</h2>
-<ul><a href="https://github.com/Dr-GENZ/Instructional-Slides/blob/main/ADDIE%20PART%201.pptx">ADDIE Instructional Slides</a></ul>
+<ul><a href="https://github.com/Dr-GENZ/Instructional-Slides/blob/main/ADDIE%20PART%201.pptx">Analysis phase of the ADDIE model</a></ul>
 
 <h2>Instructional Videos</h2>
 <ul><a href="https://youtu.be/fXKHxfEpwaI?si=_ufMxtS1wmC3oy_Y">Analysis Phase of the ADDIE model</a></ul>
